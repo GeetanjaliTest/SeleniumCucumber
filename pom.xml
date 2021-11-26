@@ -67,7 +67,7 @@
         <dependency>
             <groupId>io.cucumber</groupId>
             <artifactId>gherkin</artifactId>
-            <version>22.0.0</version>
+            <version>7.0.2</version>
         </dependency>
 
 
